@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1372085717 source:c:\users\chris\documents\c++ codes\blackjack\main.cpp
+	<string>
+	<time.h>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+	"ZeroCircle.h"
+
+1371740580 c:\users\chris\documents\c++ codes\blackjack\zerocircle.h
+	<time.h>
+	<Windows.h>
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1371754354 source:c:\users\chris\documents\c++ codes\blackjack\resources.rc
+
